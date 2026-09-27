@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://a.zqnok.cn/sitemap.xml
